@@ -1,0 +1,29 @@
+#controls-form {
+ width: 900px;
+ display: flex;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+.js-search-car {
+ width: 35%;
+ margin: 5px;
+}
+
+.js-add-car {
+ width: 45%;
+ margin: 5px;
+}
+
+.js-random-car {
+ width: 20%;
+ margin: 5px;
+}
+
+.js-search-car button {
+ width: 49%;
+}
+
+#go-to-top {
+ display: none;
+}
